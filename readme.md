@@ -1,2 +1,2 @@
 # Vanilla-JS-Projects
- small vanilla JS Projects
+A Repo of small and intermediate level vanilla JS Projects
